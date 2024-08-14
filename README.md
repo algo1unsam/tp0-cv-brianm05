@@ -10,7 +10,7 @@
 
 Estudiante de Tecnicatura en Programación Informática en UNSAM (Universidad de San Martín)
 
-### Proyectos <sub>*(TPs de cuatrimestres anteriores)*</sub>
+### Proyectos *(TPs de cuatrimestres anteriores)*
 
 - **TP Arduino.** Proyecto donde se elaboró un sistema embebido en ARDUINO UNO usando el lenguaje C.
 - **TP Archivos C.** Proyecto donde se elaboró un programa de consola que permitia el manejo de archivos (tanto txt, csv como también binarios) usando el lenguaje C.
@@ -20,7 +20,7 @@ Estudiante de Tecnicatura en Programación Informática en UNSAM (Universidad de
 
 ### Jugando ahora
 - **Valorant**
-- **FIFA 16** (con un parche de la liga argentina)
+- **FIFA 16** <sub>(con un parche de la liga argentina)</sub>
 
 ### Favoritos Históricos
 - **Counter Strike Global Ofensive**
