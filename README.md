@@ -5,7 +5,7 @@
 
 - **Nombre:** Brian Milowski
 - **Mail:** brianmilowski05@gmail.com
--![Imagen, no soy yo, solo quiero subir una foto](/assets/foto.png)
+- ![Imagen, no soy yo, solo quiero subir una foto](/assets/foto.png)
 
 ### Estudios
 
