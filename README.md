@@ -3,8 +3,8 @@
 ## CV
 ### Información
 
-- Nombre: Brian Milowski
-- Mail: brianmilowski05@gmail.com
+- **Nombre**: Brian Milowski
+- **Mail**: brianmilowski05@gmail.com
 
 ### Estudios
 
@@ -19,9 +19,9 @@ Estudiante de Tecnicatura en Programación Informática en UNSAM (Universidad de
 ## Videojuegos favoritos
 
 ### Jugando ahora
-- Valorant
-- FIFA 16 (con un parche de la liga argentina)
+- **Valorant**
+- **FIFA 16** (con un parche de la liga argentina)
 
-### Históricos
-- Counter Strike Global Ofensive
-- Minecraft
+### Favoritos Históricos
+- **Counter Strike Global Ofensive**
+- **Minecraft**
