@@ -10,7 +10,7 @@
 
 Estudiante de Tecnicatura en Programación Informática en UNSAM (Universidad de San Martín)
 
-### Proyectos *(TPs de cuatrimestres anteriores)*
+### Proyectos <sub>*(TPs de cuatrimestres anteriores)*</sub>
 
 - **TP Arduino.** Proyecto donde se elaboró un sistema embebido en ARDUINO UNO usando el lenguaje C.
 - **TP Archivos C.** Proyecto donde se elaboró un programa de consola que permitia el manejo de archivos (tanto txt, csv como también binarios) usando el lenguaje C.
